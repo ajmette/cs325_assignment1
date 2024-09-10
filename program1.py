@@ -1,4 +1,5 @@
 print("Hello World!")
+print("Input four integers (press enter between each int entered): ")
 
 num1 = int(input())
 num2 = int(input())
