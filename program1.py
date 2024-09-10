@@ -1,4 +1,4 @@
-print("Input four integers: ")
+print("Hello World!")
 
 num1 = int(input())
 num2 = int(input())
